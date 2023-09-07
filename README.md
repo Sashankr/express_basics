@@ -10,8 +10,8 @@
 
 #### Home route
 
-[!Homepage]('./screenshots/homepage.png')
+![Homepage]('./screenshots/homepage.png')
 
 #### Users List
 
-[!UsersList]('./screenshots/usersList.png')
+![UsersList]('./screenshots/usersList.png')
